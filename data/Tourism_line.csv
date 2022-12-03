@@ -1,0 +1,356 @@
+Country,Year,Value
+France,1996,148263
+France,1997,157551
+France,2004,190282
+France,2005,185829
+France,2006,193882
+France,2007,193319
+France,2008,193571
+France,2009,192369
+France,2010,189826
+France,2011,196595
+France,2012,197522
+France,2013,204410
+France,2014,206599
+France,2015,203302
+France,2016,203042
+France,2017,207274
+France,2018,211998
+France,2019,217877
+France,2020,117109
+Mexico,1995,85446
+Mexico,1996,90394
+Mexico,1997,92915
+Mexico,1998,95214
+Mexico,1999,99869
+Mexico,2000,105673
+Mexico,2001,100718
+Mexico,2002,100153
+Mexico,2003,92330
+Mexico,2004,99250
+Mexico,2005,103146
+Mexico,2006,97701
+Mexico,2007,93582
+Mexico,2008,92948
+Mexico,2009,88044
+Mexico,2010,81953
+Mexico,2011,75732
+Mexico,2012,76749
+Mexico,2013,78100
+Mexico,2014,81042
+Mexico,2015,87129
+Mexico,2016,94853
+Mexico,2017,99349
+Mexico,2018,96497
+Mexico,2019,97406
+Mexico,2020,51128
+United States,1995,79732
+United States,1996,82756
+United States,1997,82525
+United States,1998,74767
+United States,1999,75796
+United States,2000,78343
+United States,2001,70975
+United States,2002,64434
+United States,2003,62082
+United States,2004,67606
+United States,2005,71484
+United States,2006,183178
+United States,2007,175299
+United States,2008,175703
+United States,2009,160508
+United States,2010,162275
+United States,2011,147271.4219
+United States,2012,171629.8906
+United States,2013,179309.9063
+United States,2014,178311.3594
+United States,2015,176864.5313
+United States,2016,175261.4844
+United States,2017,174291.75
+United States,2018,169324.9219
+United States,2019,165478
+United States,2020,45037
+Italy,1995,55706
+Italy,1996,59805
+Italy,1997,57998
+Italy,1998,58499
+Italy,1999,59521
+Italy,2000,62702
+Italy,2001,60960
+Italy,2002,63561
+Italy,2003,63026
+Italy,2004,58480
+Italy,2005,59230
+Italy,2006,66353
+Italy,2007,70271
+Italy,2008,70719
+Italy,2009,71692
+Italy,2010,73225
+Italy,2011,75866
+Italy,2012,76293
+Italy,2013,76762
+Italy,2014,77694
+Italy,2015,81068
+Italy,2016,84925
+Italy,2017,89931
+Italy,2018,93228.60156
+Italy,2019,95399
+Italy,2020,38419
+Spain,1995,52460
+Spain,1996,55077
+Spain,1997,62415
+Spain,1998,68068
+Spain,1999,72040
+Spain,2000,74580
+Spain,2001,75564
+Spain,2002,79313
+Spain,2003,82326
+Spain,2004,85981
+Spain,2005,92563
+Spain,2006,96152
+Spain,2007,98907
+Spain,2008,97670
+Spain,2009,91899
+Spain,2010,93744
+Spain,2011,99187
+Spain,2012,98128
+Spain,2013,103231
+Spain,2014,107144
+Spain,2015,109834
+Spain,2016,115561
+Spain,2017,121717
+Spain,2018,124456
+Spain,2019,126170
+Spain,2020,36410
+Hungary,1995,39240
+Hungary,1996,39833
+Hungary,1997,37315
+Hungary,1998,33624
+Hungary,1999,28803
+Hungary,2000,31141
+Hungary,2001,30679
+Hungary,2002,31739
+Hungary,2003,31412
+Hungary,2004,33934
+Hungary,2005,36173
+Hungary,2006,38318
+Hungary,2007,39379
+Hungary,2008,39554
+Hungary,2009,40624
+Hungary,2010,39904
+Hungary,2011,41304
+Hungary,2012,43565
+Hungary,2013,43611
+Hungary,2014,45984
+Hungary,2015,48345
+Hungary,2016,52890
+Hungary,2017,54962
+Hungary,2018,57667
+Hungary,2019,61397
+Hungary,2020,31641
+China,1995,46387
+China,1996,51128
+China,1997,57588
+China,1998,63478
+China,1999,72796
+China,2000,83444
+China,2001,89013
+China,2002,97908
+China,2003,91662
+China,2004,109038
+China,2005,120292
+China,2006,124942
+China,2007,131873
+China,2008,130027
+China,2009,126476
+China,2010,133762
+China,2011,135423
+China,2012,132405
+China,2013,129078
+China,2014,128499
+China,2015,133820
+China,2016,141774
+China,2017,153260
+China,2018,158606
+China,2019,162538
+China,2020,30402
+Croatia,1995,16100
+Croatia,1996,19085
+Croatia,1997,23660
+Croatia,1998,25499
+Croatia,1999,29215
+Croatia,2000,37226
+Croatia,2001,40129
+Croatia,2002,41737
+Croatia,2003,42857
+Croatia,2004,44974
+Croatia,2005,45762
+Croatia,2006,47733
+Croatia,2007,52271
+Croatia,2008,51336
+Croatia,2009,47573
+Croatia,2010,49006
+Croatia,2011,49969
+Croatia,2012,47185
+Croatia,2013,48345
+Croatia,2014,51168
+Croatia,2015,55858
+Croatia,2016,57587
+Croatia,2017,59238
+Croatia,2018,57668
+Croatia,2019,60021
+Croatia,2020,21608
+Turkiye,1995,7727
+Turkiye,1996,8614
+Turkiye,1997,9689
+Turkiye,1998,9753
+Turkiye,1999,7487
+Turkiye,2000,10428
+Turkiye,2001,11619
+Turkiye,2002,13256
+Turkiye,2003,14030
+Turkiye,2004,17517
+Turkiye,2005,21125
+Turkiye,2006,19820
+Turkiye,2007,27215
+Turkiye,2008,31138
+Turkiye,2009,31760
+Turkiye,2010,32997
+Turkiye,2011,36769
+Turkiye,2012,37715
+Turkiye,2013,39861
+Turkiye,2014,41627
+Turkiye,2015,41114
+Turkiye,2016,30907
+Turkiye,2017,37970
+Turkiye,2018,46113
+Turkiye,2019,51747
+Turkiye,2020,15971
+Denmark,2003,21119
+Denmark,2004,22054
+Denmark,2005,26927
+Denmark,2006,26936
+Denmark,2007,27138
+Denmark,2008,26870
+Denmark,2009,26571
+Denmark,2010,26730
+Denmark,2011,25811
+Denmark,2012,26402
+Denmark,2013,26516
+Denmark,2014,28070
+Denmark,2015,28209
+Denmark,2016,28692
+Denmark,2017,30736
+Denmark,2018,30801
+Denmark,2019,33093
+Denmark,2020,15595
+Austria,1995,17173
+Austria,1996,17090
+Austria,1997,16647
+Austria,1998,17352
+Austria,1999,17467
+Austria,2000,17982
+Austria,2001,18180
+Austria,2002,18611
+Austria,2003,19078
+Austria,2004,19374
+Austria,2005,19952
+Austria,2006,20269
+Austria,2007,20773
+Austria,2008,21935
+Austria,2009,21355
+Austria,2010,22004
+Austria,2011,23012
+Austria,2012,24151
+Austria,2013,24813
+Austria,2014,25291
+Austria,2015,26728
+Austria,2016,28121
+Austria,2017,29460
+Austria,2018,30816
+Austria,2019,31884
+Austria,2020,15091
+Germany,1995,14847
+Germany,1996,15205
+Germany,1997,15837
+Germany,1998,16511
+Germany,1999,17116
+Germany,2000,18983
+Germany,2001,17861
+Germany,2002,17969
+Germany,2003,18399
+Germany,2004,20137
+Germany,2005,21500
+Germany,2006,23569
+Germany,2007,24421
+Germany,2008,24884
+Germany,2009,24220
+Germany,2010,26875
+Germany,2011,28374
+Germany,2012,30411
+Germany,2013,31545
+Germany,2014,32999
+Germany,2015,34970
+Germany,2016,35555
+Germany,2017,37452
+Germany,2018,38881
+Germany,2019,39563
+Germany,2020,12449
+United Kingdom,1995,23537
+United Kingdom,1996,25163
+United Kingdom,1997,25515
+United Kingdom,1998,25745
+United Kingdom,1999,25394
+United Kingdom,2000,25209
+United Kingdom,2001,22835
+United Kingdom,2002,24180
+United Kingdom,2003,24715
+United Kingdom,2004,27755
+United Kingdom,2005,29970
+United Kingdom,2006,32713
+United Kingdom,2007,32778
+United Kingdom,2008,31888
+United Kingdom,2009,31072
+United Kingdom,2010,30398
+United Kingdom,2011,31886
+United Kingdom,2012,32221
+United Kingdom,2013,33567
+United Kingdom,2014,35337
+United Kingdom,2015,36792
+United Kingdom,2016,39129
+United Kingdom,2017,41080
+United Kingdom,2018,40283
+United Kingdom,2019,40857
+United Kingdom,2020,11101
+Virgin Islands (U.S.),1995,1741
+Virgin Islands (U.S.),1996,1779
+Virgin Islands (U.S.),1997,2128
+Virgin Islands (U.S.),1998,2139
+Virgin Islands (U.S.),1999,1964
+Virgin Islands (U.S.),2000,2396
+Virgin Islands (U.S.),2001,2497
+Virgin Islands (U.S.),2002,2337
+Virgin Islands (U.S.),2003,2395
+Virgin Islands (U.S.),2004,2620
+Virgin Islands (U.S.),2005,2602
+Virgin Islands (U.S.),2006,2571
+Virgin Islands (U.S.),2007,2606
+Virgin Islands (U.S.),2008,2435
+Virgin Islands (U.S.),2009,2245
+Virgin Islands (U.S.),2010,2531
+Virgin Islands (U.S.),2011,2686
+Virgin Islands (U.S.),2012,2640
+Virgin Islands (U.S.),2013,2702
+Virgin Islands (U.S.),2014,2814
+Virgin Islands (U.S.),2015,2643
+Virgin Islands (U.S.),2016,2574
+Virgin Islands (U.S.),2017,1954
+Virgin Islands (U.S.),2018,1922
+Virgin Islands (U.S.),2019,2074
+Virgin Islands (U.S.),2020,8612
+United Arab Emirates,2015,19313
+United Arab Emirates,2016,20894
+United Arab Emirates,2017,21805
+United Arab Emirates,2018,23092
+United Arab Emirates,2019,25282
+United Arab Emirates,2020,8084
